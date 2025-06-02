@@ -17,6 +17,14 @@ Settings : None
 	Known Issues:
 
 
+BOM:
+This is the minimum amount of extra components required to assemble. 
+
+M6 x 12mm : 48 
+M6 threaded insert : 48
+
+-----------------
+
 Changelog:
 
 1/06/25
