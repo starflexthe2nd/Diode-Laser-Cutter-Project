@@ -1,0 +1,2 @@
+- Make both gaps slightly smaller to allow for less movement
+- extend the arms slightly longer to cover more beam.
