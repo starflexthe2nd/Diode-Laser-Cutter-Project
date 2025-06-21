@@ -1,0 +1,3 @@
+- YAMM HF Left Needs to have Text.
+- YAIP in Fusion 360 has modern/legacy (The modern changes are to the legacy part.)
+^^ Needs to be reworked, Belt tensioner system + Is bending under load from the belt.
