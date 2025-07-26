@@ -1,0 +1,1 @@
+Flat head screws strongly recommended to screw into the linear rails, as with button head currently scrapes the laser module going in. To be fixed
