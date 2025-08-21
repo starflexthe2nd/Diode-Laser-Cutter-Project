@@ -1,0 +1,1 @@
+- Increase hole size for the linear rail fixture, an m3 nut gets caught on it 0.5mm bigger
